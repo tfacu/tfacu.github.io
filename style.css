@@ -1,0 +1,101 @@
+.header{
+	background-color: #000000;
+	color: #FFFFFF;
+	height: 50px;
+	font-size: 25px;
+	padding: 10px;
+	margin: -5px;
+	text-align: center;
+}
+
+body {
+	font-family: "Open Sans",apple-system,blinkmacsystemfont,"Segoe UI","Helvetica Neue",arial,sans-serif;
+}
+
+form{
+
+	width: 600px;
+	height: 500px;
+	margin: 8px;
+   	padding: 8px;
+   	border-width: 2px;
+   	border-radius: 6px;
+   	margin-left: auto;
+	margin-right: auto;
+	background-color: #E26A2C;
+	
+   	
+}
+
+.estatura{
+	width: 50px;
+	height: 10px;
+	margin: 8px;
+   	padding: 8px;
+   	border-width: 2px;
+   	border-radius: 4px;
+	margin-right: auto;
+	margin-left: 60px;
+}
+
+.peso{
+	width: 50px;
+	height: 10px;
+	margin: 8px;
+   	padding: 8px;
+   	border-width: 2px;
+   	border-radius: 4px;
+	margin-right: auto;
+	margin-left: 60px;
+}
+
+.estatura_input{
+	width: 80px;
+	height: 10px;
+	margin: 8px;
+   	padding: 8px;
+   	border-width: 2px;
+   	border-radius: 4px;
+   	margin-left: auto;
+	margin-right: auto;
+}
+
+.peso_input{
+	width: 80px;
+	height: 10px;
+	margin: 8px;
+   	padding: 8px;
+   	border-width: 2px;
+   	border-radius: 4px;
+   	margin-left: auto;
+	margin-right: auto;
+}
+
+.calcular_boton{
+	width: 100px;
+	height: 35px;
+	margin: 15px;
+   	padding: 8px;
+   	border-width: 2px;
+   	border-radius: 4px;
+   	margin-left: auto;
+	margin-right: auto;
+}
+
+.sexo{
+	width: 80px;
+	height: 15px;
+   	margin-left: auto;
+	margin-right: auto;
+}
+
+footer{
+	background-color: #9D9D9D;
+	color: #FFFFFF;
+	height: 25px;
+	font-size: 20px;
+	padding: 10px;
+	margin: -5px;
+	text-align: right;
+	font-family: alegreya-light;
+}
